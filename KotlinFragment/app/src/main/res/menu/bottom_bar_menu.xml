@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mainPageFragment"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home Page" />
+    <item
+        android:id="@+id/profileFragment"
+        android:icon="@drawable/person_icon"
+        android:title="ProfilePage" />
+</menu>
